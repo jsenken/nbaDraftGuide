@@ -1,0 +1,20 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .mainTitle {
+    justify-content: center;
+    color: #ffd70b;
+    font-weight: bolder;
+  }
+  
+  #mainRow,
+  #mainContain {
+    width: 100%;
+    max-width: 100%;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
