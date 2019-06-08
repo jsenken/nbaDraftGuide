@@ -83,7 +83,7 @@ class App extends Component {
             "Lightning quick speed, outstanding athletic ability, known for dunking on opponents but gets just as much enjoyment out of finding the open man",
           strNum: "40",
           wknDesc:
-            "Highlights dont just come from Ja's offense, he has many helpside blocks that showcase his leaping ability as well",
+            "Highlights dont just come from Ja's offense, he has many helpside blocks that showcase his leaping ability as well. However can get caught ball watching.",
           wknNum: "20",
           pts: 24.5,
           reb: 5.7,
@@ -107,16 +107,16 @@ class App extends Component {
           weight: "195",
           pos: "SG",
           strDesc:
-            "Capable of running pick-and-roll as a ball handler; the team that drafts him can use him in virtually any role on offense.",
+            "Not as explosive of an athlete as the top 3, still very comfortable finishing tough looks late in shot clock",
           strNum: "30",
           wknDesc:
-            "Capable of running pick-and-roll as a ball handler; the team that drafts him can use him in virtually any role on offense.",
+            "Culver was apart of the nations best defensive team, he gets out in passing lanes and is a solid on ball defender",
           wknNum: "30",
           pts: 18.5,
           reb: 6.4,
           ast: 3.7,
           summary:
-            "Capable of running pick-and-roll as a ball handler; the team that drafts him can use him in virtually any role on offense."
+            "Culver may not have a quick enough first step to create as much offense in the NBA as he did at Tech but if he can continue to make difficult shots he can be a valuable asset"
         },
         {
           key: 5,
