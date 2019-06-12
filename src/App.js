@@ -121,7 +121,7 @@ class App extends Component {
         {
           key: 5,
           name: "DeAndre Hunter",
-          comp: "Luol Deng",
+          comp: "OG Anuoby",
           school: "Virgina",
           type:
             "https://ih0.redbubble.net/image.402374338.5329/flat,550x550,075,f.jpg",
@@ -134,16 +134,16 @@ class App extends Component {
           weight: "225",
           pos: "PF",
           strDesc:
-            "Capable of running pick-and-roll as a ball handler; the team that drafts him can use him in virtually any role on offense.",
-          strNum: "30",
+            "Improved shooter, could be useful in pick and pop situations but does tend to take dribble in for a long two",
+          strNum: "20",
           wknDesc:
-            "Capable of running pick-and-roll as a ball handler; the team that drafts him can use him in virtually any role on offense.",
-          wknNum: "30",
+            "ACC defensive player of the year over Zion, capable of moving his feet to stay in front of much quicker players",
+          wknNum: "50",
           pts: 15.2,
           reb: 5.1,
           ast: 2.0,
           summary:
-            "Capable of running pick-and-roll as a ball handler; the team that drafts him can use him in virtually any role on offense."
+            "Great role player in today's pick and role heavy NBA capable of switching onto quicker guards on defense and stepping into jump shots on offense."
         },
         {
           key: 6,
