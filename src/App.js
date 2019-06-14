@@ -124,7 +124,7 @@ class App extends Component {
           comp: "OG Anuoby",
           school: "Virgina",
           type:
-            "https://ih0.redbubble.net/image.402374338.5329/flat,550x550,075,f.jpg",
+            "https://ih0.redbubble.net/image.402374764.5340/flat,550x550,075,f.jpg",
           bigPic:
             "https://basketball.realgm.com/images/nba/4.2/wiretap/photos/2006/Hunter_Deandre_ncaa_180830.jpg",
           compPic:
@@ -151,7 +151,7 @@ class App extends Component {
           comp: "Jeff Teague",
           school: "Vanderbilt",
           type:
-            "https://ih0.redbubble.net/image.402374338.5329/flat,550x550,075,f.jpg",
+            "https://ih0.redbubble.net/image.402376779.5395/flat,550x550,075,f.jpg",
           bigPic:
             "https://cdn-s3.si.com/s3fs-public/styles/marquee_large_2x/public/2018/11/23/darius-garland-injury-kent-state.jpg?itok=CRla_H_w",
           compPic:
@@ -161,16 +161,16 @@ class App extends Component {
           weight: "175",
           pos: "PG",
           strDesc:
-            "Capable of running pick-and-roll as a ball handler; the team that drafts him can use him in virtually any role on offense.",
+            "Quick point guard with a good handle, able to shoot from deep, played only 5 games at vanderbilt",
           strNum: "30",
           wknDesc:
-            "Capable of running pick-and-roll as a ball handler; the team that drafts him can use him in virtually any role on offense.",
+            "Only listed at 6-2, 175. Darius may have to be hidden on defense. ",
           wknNum: "30",
           pts: 16.2,
           reb: 3.8,
           ast: 2.6,
           summary:
-            "Capable of running pick-and-roll as a ball handler; the team that drafts him can use him in virtually any role on offense."
+            "Only a 5 game sample size makes it hard to evaluate Garland. He showed signs of elite quickness and scoring capability but he will be a high risk, high reward pick for any team in the draft."
         },
         {
           key: 7,
