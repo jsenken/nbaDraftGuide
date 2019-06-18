@@ -188,16 +188,16 @@ class App extends Component {
           weight: "218",
           pos: "SF",
           strDesc:
-            "Capable of running pick-and-roll as a ball handler; the team that drafts him can use him in virtually any role on offense.",
+            "Has good fundamentals and footwork shooting from three but has as low release point, very streaky at Duke, had historically low output at the rim at Duke",
           strNum: "30",
           wknDesc:
-            "Capable of running pick-and-roll as a ball handler; the team that drafts him can use him in virtually any role on offense.",
+            "Foul prone player, has the physical tools to be a good defender but seemed to always be fouling three point shooters at duke",
           wknNum: "30",
           pts: 13.5,
           reb: 3.7,
           ast: 1.9,
           summary:
-            "Capable of running pick-and-roll as a ball handler; the team that drafts him can use him in virtually any role on offense."
+            "Incredible physical tools, if you watched his youtube highlight video you'd wonder why he wasnt the #4 pick, but scouts have more questions than answers after his 1 year at Duke"
         },
         {
           key: 8,
