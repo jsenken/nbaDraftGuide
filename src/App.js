@@ -215,16 +215,16 @@ class App extends Component {
           weight: "230",
           pos: "PF",
           strDesc:
-            "Capable of running pick-and-roll as a ball handler; the team that drafts him can use him in virtually any role on offense.",
+            "Young, athletic player with bounce. Best catching passes as he's cutting to the basket or playing out in transition.",
           strNum: "30",
           wknDesc:
-            "Capable of running pick-and-roll as a ball handler; the team that drafts him can use him in virtually any role on offense.",
+            "Strong post defender, sometimes comes over to block shots too aggresively",
           wknNum: "30",
           pts: 6.7,
           reb: 3.0,
           ast: 0.7,
           summary:
-            "Capable of running pick-and-roll as a ball handler; the team that drafts him can use him in virtually any role on offense."
+            "Very young, very raw, does not have a reliable jump shot or handle. Needs time to develop before making an impact in NBA."
         },
         {
           key: 9,
