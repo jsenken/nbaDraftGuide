@@ -92,7 +92,7 @@ class App extends Component {
             "Ja will be a foundational piece for any team that drafts him, he will be a fixture on sportscenter top 10 for years to come. "
         },
         {
-          key: 4,
+          key: 6,
           name: "Jarrett Culver",
           comp: "Jeremy Lamb",
           school: "Texas Tech",
@@ -146,7 +146,7 @@ class App extends Component {
             "Great role player in today's pick and role heavy NBA capable of switching onto quicker guards on defense and stepping into jump shots on offense."
         },
         {
-          key: 6,
+          key: 4,
           name: "Darius Garland",
           comp: "Jeff Teague",
           school: "Vanderbilt",
@@ -242,16 +242,16 @@ class App extends Component {
           weight: "250",
           pos: "C",
           strDesc:
-            "Capable of running pick-and-roll as a ball handler; the team that drafts him can use him in virtually any role on offense.",
+            "Solid finisher around the rim, capable of handling himself outside the paint as well, shot 30% from three last year in the euroleague",
           strNum: "30",
           wknDesc:
-            "Capable of running pick-and-roll as a ball handler; the team that drafts him can use him in virtually any role on offense.",
+            "Big body, likes to protect the rim as the weak side help defender, not sure if he can stay in front of NBA point guards in pick and roll",
           wknNum: "30",
           pts: 12.1,
           reb: 6.4,
           ast: 1.2,
           summary:
-            "Capable of running pick-and-roll as a ball handler; the team that drafts him can use him in virtually any role on offense."
+            "Goga is more of a traditional center, will have to show that he can play in modern day NBA with his shooting and quick feet on defense."
         },
         {
           key: 10,
